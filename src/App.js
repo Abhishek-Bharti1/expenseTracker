@@ -5,12 +5,12 @@ import NewExpense from './components/NewExpenses/NewExpense';
 import { useState } from 'react';
 
 let DUMMY_EXPENSE = [
-//   {
-//     id: 'e1',
-//     title:'School Fee',
-//     amount:250,
-//     date: new Date(2021,5,12)
-//   },
+  {
+    id: 'e1',
+    title:'School Fee',
+    amount:250,
+    date: new Date(2021,5,12)
+  },
 //   {
 //    id: 'e2',
 //    title:'Car Insurance',
